@@ -1,0 +1,30 @@
+/Users/anastasiamakarevic/Desktop/sharpmain/bin/Debug/net7.0/sharpmain
+/Users/anastasiamakarevic/Desktop/sharpmain/bin/Debug/net7.0/sharpmain.deps.json
+/Users/anastasiamakarevic/Desktop/sharpmain/bin/Debug/net7.0/sharpmain.runtimeconfig.json
+/Users/anastasiamakarevic/Desktop/sharpmain/bin/Debug/net7.0/sharpmain.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/bin/Debug/net7.0/sharpmain.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.csproj.AssemblyReference.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.AssemblyInfoInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.AssemblyInfo.cs
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.csproj.CoreCompileInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/refint/sharpmain.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/sharpmain.genruntimeconfig.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/obj/Debug/net7.0/ref/sharpmain.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/bin/Debug/net7.0/sharpmain
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/bin/Debug/net7.0/sharpmain.deps.json
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/bin/Debug/net7.0/sharpmain.runtimeconfig.json
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/bin/Debug/net7.0/sharpmain.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/bin/Debug/net7.0/sharpmain.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.csproj.AssemblyReference.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.AssemblyInfoInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.AssemblyInfo.cs
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.csproj.CoreCompileInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/refint/sharpmain.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/sharpmain.genruntimeconfig.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 3/task2/obj/Debug/net7.0/ref/sharpmain.dll
