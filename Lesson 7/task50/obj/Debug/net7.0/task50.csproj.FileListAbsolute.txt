@@ -1,0 +1,15 @@
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/bin/Debug/net7.0/task50
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/bin/Debug/net7.0/task50.deps.json
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/bin/Debug/net7.0/task50.runtimeconfig.json
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/bin/Debug/net7.0/task50.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/bin/Debug/net7.0/task50.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.csproj.AssemblyReference.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.AssemblyInfoInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.AssemblyInfo.cs
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.csproj.CoreCompileInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/refint/task50.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/task50.genruntimeconfig.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 7/task50/obj/Debug/net7.0/ref/task50.dll

@@ -1,0 +1,15 @@
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.csproj.AssemblyReference.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.AssemblyInfoInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.AssemblyInfo.cs
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.csproj.CoreCompileInputs.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/bin/Debug/net7.0/task41
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/bin/Debug/net7.0/task41.deps.json
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/bin/Debug/net7.0/task41.runtimeconfig.json
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/bin/Debug/net7.0/task41.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/bin/Debug/net7.0/task41.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/refint/task41.dll
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.pdb
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/task41.genruntimeconfig.cache
+/Users/anastasiamakarevic/Desktop/sharpmain/Lesson 6/task41/obj/Debug/net7.0/ref/task41.dll
